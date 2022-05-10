@@ -2,7 +2,7 @@ import 'package:flutter/foundation.dart';
 
 class ExpenseList {
   String? text;
-  int? pass;
+  String? pass;
   String? comm;
   String? id;
 
